@@ -1,4 +1,4 @@
-<h1 align="center">José Daniel Veizaga | Full Stack Developer 👨‍💻</h1>
+<h1 align="center"> Hi 👋, I'm José Daniel Veizaga | Full Stack Developer 👨‍💻</h1>
 
 <div align="center">
   <a href="https://linkedin.com/in/josedanielveizaga" target="_blank">
